@@ -128,7 +128,7 @@ export default function QuizApp() {
   };
   const HandleSave = async () => {
     try {
-      const response = await fetch("http://localhost:4000/api", {
+      const response = await fetch("https://quiz-game-backend-c858.onrender.com/api", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
