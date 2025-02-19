@@ -63,3 +63,19 @@ backend
 nodemon index.js
 
 
+*********Deployment*********
+
+Backend by {Render.com}
+
+
+Frontend by {Netlify.com}
+
+
+
+Deployment Link = https://solve-quiz-game.netlify.app/
+
+
+Github Respository Link = https://github.com/vanshhh-008/Quiz-Game
+
+
+
